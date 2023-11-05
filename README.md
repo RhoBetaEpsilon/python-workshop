@@ -1,2 +1,2 @@
-# python-workshop
-Template repository for attendees at Rho Beta Epsilon's Python workshop
+# Instructions
+Using the workshop guide as a reference, choose which sections interest you and complete their respective problems. Each seciton has a Python file with template code to use. There are also comments indicating where you should write your code. When you've completed the sections you want, you can go back and add type annotations to your functions to make the code easier to understand later.
